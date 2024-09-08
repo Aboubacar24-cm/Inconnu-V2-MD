@@ -4,14 +4,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50936698203"
-global.ownername = "Inconnu_tech"
+global.ownernomer = "224660002740"
+global.ownername = "SUKUNA"
 global.ytname = "INCONNU_TECH"
 global.socialm = "GitHub: darksideMd"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '50936698203 , 50935662593'  //creator number
-global.ownername = 'INCONNU_TECH' //owner name
+global.ownernumber = '660002740 , 660 00 27 40  //creator number
+global.ownername = 'SUKUNA //owner name
 global.botname = '🕷 INCONNU-V2-MD-2🕷' //name of the bot
 
 //sticker details
