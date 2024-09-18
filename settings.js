@@ -10,7 +10,7 @@ global.ytname = "INCONNU_TECH"
 global.socialm = "GitHub: darksideMd"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '660002740 , 660 00 27 40  //creator number
+global.ownernumber = '224660002740 , 224660002740'  //creator number
 global.ownername = 'SUKUNA //owner name
 global.botname = '🕷 INCONNU-V2-MD-2🕷' //name of the bot
 
