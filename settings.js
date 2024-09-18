@@ -11,7 +11,7 @@ global.socialm = "GitHub: darksideMd"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '224660002740 , 224660002740'  //creator number
-global.ownername = 'SUKUNA //owner name
+global.ownername = 'SUKUNA'//owner name
 global.botname = '🕷 INCONNU-V2-MD-2🕷' //name of the bot
 
 //sticker details
